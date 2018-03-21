@@ -5,6 +5,7 @@ niz3 = [1,-1,2,-2,3]
 suma1 = 10
 suma2 = 17
 
+#TODO: ne nalazi sve kako treba
 #problem1: Find pairs with given sum in the array
 def nadjiParoveSaSumom(niz,suma):
     tmpDict={}
