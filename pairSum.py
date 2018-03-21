@@ -19,7 +19,6 @@ def nadjiParoveSaSumom(niz,suma):
                     tmpDict.update({niz[i]:niz[j]})
     return tmpDict
 
-
 a=nadjiParoveSaSumom(niz1,suma1);print(a)
 b=nadjiParoveSaSumom(niz2,suma1);print(b)
 c=nadjiParoveSaSumom(niz1,suma2);print(c)
